@@ -1,0 +1,9 @@
+<?php ?>
+$conn=mysqli_connect("localhost","id20619363_test22","*{(zh6lp1){1y%NF","id20619363_test1");
+if(!$conn){
+echo "not connected";
+}else
+{
+echo "done";
+}
+?>
